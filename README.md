@@ -1,0 +1,2 @@
+- Execute `chomod +x ./run.sh`
+- Run the robot application with `./run.sh`
